@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Style File Demo</string>
+    <string name="text_1">Text 1</string>
+    <string name="button_">Button </string>
+</resources>
